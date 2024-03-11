@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AuthApp
+namespace Game
 {
     class Program
     {
